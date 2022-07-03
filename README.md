@@ -1,2 +1,3 @@
 # projecte
-# PROJECTE README # .
+# PROJECTE README.
+Added changes to remote repository
